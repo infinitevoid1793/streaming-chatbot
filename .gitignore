@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+### Vector Stores
+url_db/
+
+# Local LLM's 
+models/
+
 # Distribution / packaging
 .Python
 build/

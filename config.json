@@ -1,0 +1,8 @@
+{
+    "urls": [
+        "https://python.langchain.com/docs/modules/data_connection/",
+        "https://python.langchain.com/docs/modules/data_connection/document_loaders/"
+    ],
+
+    "model_path" : "./models/llama-2-7b-chat.Q6_K.gguf"
+}
