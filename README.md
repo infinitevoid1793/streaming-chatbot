@@ -1,5 +1,4 @@
-# streaming-chatbot
-Chatbot streaming responses over websockets
+#  LLama2 chat assistant using FAST API and Langchain  
 
 <h2>Setup</h2> 
 
